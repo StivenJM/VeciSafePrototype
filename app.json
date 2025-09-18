@@ -24,6 +24,15 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "20e0cad6-c291-4a00-93c9-a0a6de8ff8a8"
+      }
+    },
+    "android": {
+      "package": "com.stiven2003.vecisafeprototype"
     }
   }
 }

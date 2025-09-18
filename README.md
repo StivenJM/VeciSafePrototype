@@ -29,4 +29,13 @@ To set up and run the project, follow these steps:
     npm run dev
     ```
 
+### Using EAS
+
+The build is target to android devices.
+
+1. Create the APK
+    ```bash
+    eas build --profile preview
+    ```
+
 VeciSafe aims to be a collaborative tool for building safer communities!
