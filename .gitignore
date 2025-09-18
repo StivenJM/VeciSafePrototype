@@ -1,3 +1,6 @@
+# custom ignore
+.vscode/
+
 # dependencies
 node_modules/
 
